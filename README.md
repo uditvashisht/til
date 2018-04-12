@@ -7,14 +7,24 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_0 TILs and counting..._
+_2 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Git](#git)
+* [Python](#python)
 
 ---
+
+### Git
+
+- [Change the remote origin of an existing repository](git/change-remote-origin.md)
+
+### Python
+
+- [Use readline() to get header of the files](python/use-readline-to-get-header-of-files.md)
 
 ## Usage
 
