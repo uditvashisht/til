@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_3 TILs and counting..._
+_4 TILs and counting..._
 
 ---
 
@@ -25,6 +25,7 @@ _3 TILs and counting..._
 
 ### Python
 
+- [Convert Py2 script to py3 script on macosx](python/convert-py2-script-to-py3-on-macos.md)
 - [Use readline() to get header of the files](python/use-readline-to-get-header-of-files.md)
 
 ## Usage
