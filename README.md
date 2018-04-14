@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_5 TILs and counting..._
+_6 TILs and counting..._
 
 ---
 
@@ -22,6 +22,7 @@ _5 TILs and counting..._
 ### Macos-terminal
 
 - [Create aliases for Terminal commands on Macos:](MacOs-Terminal/Create-aliases-for-terminal-commands.md)
+- [Set Sublime Text 3 as your default editor for CLI.](MacOs-Terminal/set-sublimetext-3-as-default-cli-editor.md)
 
 ### Git
 
