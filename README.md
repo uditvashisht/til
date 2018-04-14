@@ -7,16 +7,21 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_4 TILs and counting..._
+_5 TILs and counting..._
 
 ---
 
 ### Categories
 
+* [Macos-terminal](#MacOs-Terminal)
 * [Git](#git)
 * [Python](#python)
 
 ---
+
+### Macos-terminal
+
+- [Create aliases for Terminal commands on Macos:](MacOs-Terminal/Create-aliases-for-terminal-commands.md)
 
 ### Git
 
