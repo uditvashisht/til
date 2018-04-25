@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_7 TILs and counting..._
+_8 TILs and counting..._
 
 ---
 
@@ -26,6 +26,7 @@ _7 TILs and counting..._
 
 ### Git
 
+- [Caching Your Github Password on git](git/caching-github-password.md)
 - [Change the remote origin of an existing repository](git/change-remote-origin.md)
 - [Revert a commit which has already been pushed to the remote.](git/revert-already-pushed-git.md)
 
