@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_8 TILs and counting..._
+_9 TILs and counting..._
 
 ---
 
@@ -33,6 +33,7 @@ _8 TILs and counting..._
 ### Python
 
 - [Convert Py2 script to py3 script on macosx](python/convert-py2-script-to-py3-on-macos.md)
+- [How to delete all the occurence of a string or int in a list](python/delete-all-occurences-of-str-or-int-a-list.md)
 - [Save Login Credentials/Secret Keys in .env files](python/save-login-credential-in-env-files.md)
 - [Use readline() to get header of the files](python/use-readline-to-get-header-of-files.md)
 
