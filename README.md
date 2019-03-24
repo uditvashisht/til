@@ -7,7 +7,7 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_9 TILs and counting..._
+_11 TILs and counting..._
 
 ---
 
@@ -15,6 +15,8 @@ _9 TILs and counting..._
 
 * [Macos-terminal](#MacOs-Terminal)
 * [Git](#git)
+* [Pandas](#pandas)
+* [Postgresql](#postgresql)
 * [Python](#python)
 
 ---
@@ -29,6 +31,14 @@ _9 TILs and counting..._
 - [Caching Your Github Password on git](git/caching-github-password.md)
 - [Change the remote origin of an existing repository](git/change-remote-origin.md)
 - [Revert a commit which has already been pushed to the remote.](git/revert-already-pushed-git.md)
+
+### Pandas
+
+- [Indexing](pandas/indexing-in-pandas.md)
+
+### Postgresql
+
+- [How to use Postgresql Database in Development in Django on MacOS](postgresql/use_postgresql_in_development_in_django.md)
 
 ### Python
 
