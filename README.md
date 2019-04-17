@@ -7,13 +7,14 @@ variety of languages and technologies. These are things that don't really
 warrant a full blog post.
 
 
-_11 TILs and counting..._
+_12 TILs and counting..._
 
 ---
 
 ### Categories
 
 * [Macos-terminal](#MacOs-Terminal)
+* [Django](#django)
 * [Git](#git)
 * [Pandas](#pandas)
 * [Postgresql](#postgresql)
@@ -25,6 +26,10 @@ _11 TILs and counting..._
 
 - [Create aliases for Terminal commands on Macos:](MacOs-Terminal/Create-aliases-for-terminal-commands.md)
 - [Set Sublime Text 3 as your default editor for CLI.](MacOs-Terminal/set-sublimetext-3-as-default-cli-editor.md)
+
+### Django
+
+- [How to set order of objects in a Model?](django/setting-order-of-objects-in-model.md)
 
 ### Git
 
